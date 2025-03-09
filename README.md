@@ -9,6 +9,8 @@ Um die Konsistenz und Qualität der Übersetzungen zu gewährleisten, bitten wir
 - **Alphabetische Sortierung**: Alle Einträge müssen alphabetisch sortiert werden.
 - **Vermeidung von Doubletten**: Bevor du neue Einträge hinzufügst, prüfe bitte, ob sie bereits vorhanden sind.
 - **Eindeutige und verständliche Übersetzungen**: Halte die Übersetzungen so klar und präzise wie möglich.
+- **Groß-/Kleischreibung**: Bitte die Schreibweise unter "Fehlende Übersetzungen" beachten.
+- **Leerzeichen**: Bitte entsprechend der englischen Schreibweise in Symcon beachten.
 
 ## Beitrag leisten
 
