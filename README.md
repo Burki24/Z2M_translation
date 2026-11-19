@@ -1,5 +1,7 @@
 # Zigbee2MQTT Translation for Symcon
 
+[![PayPal.Me](https://img.shields.io/badge/PayPal-Me-lightblue.svg)](#spenden)
+
 Dieses Repository enthält die Übersetzungsdateien für das Symcon-Modul von Zigbee2MQTT.
 
 ## Richtlinien für Beiträge
@@ -32,3 +34,8 @@ Wenn du zur Übersetzung beitragen möchtest, folge bitte diesen Schritten:
 
 Vielen Dank für deine Unterstützung!
 
+## Spenden
+
+Mit einer freiwilligen Spende kannst du die Weiterentwicklung dieses Projekts unterstützen.
+
+[![PayPal.Me](https://img.shields.io/badge/PayPal-Me-lightblue.svg)](https://www.paypal.me/BurkhardKneiseler)
